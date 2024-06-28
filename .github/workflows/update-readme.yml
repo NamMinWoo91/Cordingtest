@@ -1,4 +1,4 @@
-ame: Update readme # 워크플로우의 이름을 지정
+name: Update readme # 워크플로우의 이름을 지정
 
 on:
   push:
