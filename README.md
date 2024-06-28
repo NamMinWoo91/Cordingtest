@@ -1,7 +1,3 @@
-# This workflow will install Python dependencies, run tests and lint with a variety of Python versions
-
-# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
-
 ## 📚 프로그래머스
 ### 🚀 0
 | 문제번호 | 링크 |
